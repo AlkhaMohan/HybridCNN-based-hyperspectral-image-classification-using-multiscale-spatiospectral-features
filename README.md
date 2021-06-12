@@ -5,7 +5,7 @@ Hyperspectral images (HSIs) are contiguous band images widely used in remote sen
 ## Proposed Model
 ![Model_img](https://user-images.githubusercontent.com/35597958/121773944-e8712d00-cb9c-11eb-98df-9d85e1a0f9a6.PNG)
 ## Citation
-### If you use HybridCNN code in your research, we would appreciate a citation to the original paper
+### If you use HybridCNN code for your research works, we would appreciate a citation to the original paper
 ```
 @article{MOHAN2020103326,
 title = {HybridCNN based hyperspectral image classification using multiscale spatiospectral features},
